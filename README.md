@@ -21,4 +21,4 @@ After that, I began writing code to create bots on **discord**, **websites**, an
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oPedroKK&layout=donut)](https://github.com/oPedroKK/github-readme-stats)
