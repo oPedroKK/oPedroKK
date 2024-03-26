@@ -2,7 +2,7 @@
 ## *Hello There!*
 >*Hello there! i'm Pedro :D <br>*
 *I'm just a boy searching to learn more and more in the programming world!* <br><br>
-I started this journey when I was **12**, using **JavaScript** to modify some games and try to create my own.
+I started this journey when I was **12**, using **C#** to modify some games and try to create my own.
 After that, I began writing code to create bots on **discord**, **websites**, and some **apps**... btw that was all for learning :P
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/opedrokk/)
