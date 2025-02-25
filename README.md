@@ -1,5 +1,5 @@
 
-## ✌ | *Hello, I'm P. Barboza!*
+## ✌ | *Hello, I'm Pedro Barboza!*
 
 I am a growing Front-End developer, focused on enhancing my skills with JavaScript, TypeScript, and React. Currently, my goal is to establish myself in front-end development by creating projects that challenge me to improve and deepen my understanding of the fundamentals and best practices of these technologies.
 
